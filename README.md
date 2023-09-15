@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://shivabajpai2006.wixsite.com/shiva04" target="_bla
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Ethical Hacker 👩‍💻, and Graphics Designer 🎨!
+I'm a Full-Stack Web Developer 💻, Ethical Hacker 👩‍💻, and Graphics Designer (UI/UX) 🎨!
 </h2> 
 A very passionate,self taught web designer. With My conquered power of imagination, I imagine and then execute the websites like never seen before. Also a Backend developer with robust problem solving skills and proven experience in creating and design the best that has ever made out there.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
