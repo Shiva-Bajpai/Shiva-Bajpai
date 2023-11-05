@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Shiva</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/shiva-bajpai-sb06?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">Shiva</a> 👋
 </h3>
 
 <h2 align="center">
