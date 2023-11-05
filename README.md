@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://shivabajpai2006.wixsite.com/shiva04" target="_blank" rel="noreferrer">Shiva</a> 👋
+Hi there, I'm <a href="" target="_blank" rel="noreferrer">Shiva</a> 👋
 </h3>
 
 <h2 align="center">
