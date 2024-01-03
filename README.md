@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shivabajpai2006.wixsite.com/shiva04" target="_blank" rel="noreferrer"><img src="https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg" alt="my banner"></a>
+  <a href="https://know-shiva.netlify.com" target="_blank" rel="noreferrer"><img src="https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
