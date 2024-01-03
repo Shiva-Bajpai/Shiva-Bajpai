@@ -13,9 +13,9 @@ A very passionate,self taught web designer. With My conquered power of imaginati
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/shiva-bajpai-sb06/"><img align="left" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Shiva Bajpai | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/_Shiva__Bajpai_/)"><img align="left" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="Shiva Bajpai | Instagram" width="21px"/></a>
-<a href="https://twitter.com/ShivaBajpai06"><img align="left" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Shiva Bajpai | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/shiva-bajpai-sb06/" target="_blank"><img align="left"  src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Shiva Bajpai | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/_shiva__bajpai_/" target="_blank"><img align="left" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="Shiva Bajpai | Instagram" width="21px"/></a>
+<a href="https://twitter.com/ShivaBajpai06" target="_blank"><img align="left" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Shiva Bajpai | Twitter" width="21px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
