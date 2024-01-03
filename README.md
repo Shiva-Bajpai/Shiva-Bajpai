@@ -22,16 +22,17 @@ A very passionate,self taught web designer. With My conquered power of imaginati
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- A Most Realistic Game Using UE5 
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My AI & DS skill
+- Android Dev.
+- Web Dev Projects.
+- Learning Artificial Intelligence & Machine Learning With NLP.
+- UE 5
 
 ## 🌱 I'm currently learning
 
-- Unreal Engine 5
-- React
-- MySQL
+- Kotlin
+- Gradle
+- DSA (C++)
+- postgresql
 
 
 ## 💼 Technical Skills
