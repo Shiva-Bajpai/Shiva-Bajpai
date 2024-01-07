@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://know-shiva.netlify.com" target="_blank" rel="noreferrer"><img src="https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg" alt="my banner"></a>
+  <a href="https://know-shiva.netlify.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
