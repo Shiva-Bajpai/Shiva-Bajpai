@@ -47,8 +47,9 @@ A Full-Stack Dev & UI/UX Designer!
 - SBditor
 
 ### 👥 Communities I am Part of ::
-- CNCF || OxML, University of Oxford 🎓|| HPAIR, Harvard University 🎓 || GSSoC || SWoC || E-Cell IIT Bombay <br>
-- Coding Ninjas || Internshala || Xartup || 
+- CNCF || OxML, University of Oxford 🎓|| HPAIR, Harvard University 🎓 || GSSoC || SWoC || JGEC || E-Cell IIT Bombay 
+- Coding Ninjas || Internshala || Xartup || Under 25 Universe ||
+- <b> Check Out My LinkedIn to Know More ✨️ </b>
 
 ## 💼 Technical Skills
 
