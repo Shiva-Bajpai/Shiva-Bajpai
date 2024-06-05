@@ -51,6 +51,22 @@ A Full-Stack Dev & UI/UX Designer!
 - Coding Ninjas || Internshala || Xartup || Under 25 Universe ||
 - <b> Check Out My LinkedIn to Know More ✨️ </b>
 
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
+
+![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+![](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)
+
+![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+
+
+
 ## 💼 Technical Skills 👇🏻
 
 ### Frontend Development :: 
