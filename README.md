@@ -18,7 +18,7 @@ A Full-Stack Dev & UI/UX Designer!
 
 
 ### 🤝 Connect with me ::
-
+![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 <a href="https://www.linkedin.com/in/shiva-bajpai-sb06/" target="_blank"><img align="left"  src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Shiva Bajpai | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/_shiva__bajpai_/" target="_blank"><img align="left" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="Shiva Bajpai | Instagram" width="21px"/></a>
 <a href="https://twitter.com/ShivaBajpai06" target="_blank"><img align="left" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Shiva Bajpai | Twitter" width="21px"/></a>
@@ -58,6 +58,7 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
 </br>
 
