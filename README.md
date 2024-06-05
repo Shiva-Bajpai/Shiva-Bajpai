@@ -11,10 +11,10 @@ A Full-Stack Dev & UI/UX Designer!
 </h2> 
 
 ### 👨🏻‍💻 Who I Am ? 
-- As I am a CS student I like to make cool website using different Tech Stack like GSAP, Three.js, animation libraries etc. 
+- As I am a CS student 👨🏻‍💻 I like to make cool website using different Tech Stack like <b> GSAP, Three.js, Animation libraries </b> etc. 
 - With My conquered power of imagination, I imagine and then execute the websites like never seen before. 
 - I'm also a Backend developer with robust problem solving skills and proven experience in creating and designing the best that has ever made out there. 
-- I love sharing my experiences & knowledge to the help the community by posting valuble content on my <b> LinkedIn</b> & <b> X (Twitter) </b>related to Tech, Personal Development, Business, AI/ML & Opportunities for devs like Internships, Contests and many more.
+- I love 💖 sharing my experiences & knowledge to the help the community by posting valuble content on my <b> LinkedIn</b> & <b> X (Twitter) </b>related to Tech, Personal Development, Business, AI/ML & Opportunities for devs like Internships, Contests and many more.
 
 
 ### 🤝 Connect with me ::
@@ -34,14 +34,14 @@ A Full-Stack Dev & UI/UX Designer!
 - Machine Learning [Deep Learning & NLP]
 - Data Structures & Algorithms [DSA]
 
-## 🌱 I'm currently Building ::
+## 👨🏻‍💻 I'm currently Building ::
 
-<strong> My Full-Stack Projects </strong>
+<strong> My Full-Stack Projects 👇🏻</strong>
 - Notion +
 - Spotify + 
 - Canva +
 
-<strong> My SaaS Projects </strong>
+<strong> My SaaS Projects 👇🏻</strong>
 - Next-Level 
 - JustUI
 - SBditor
