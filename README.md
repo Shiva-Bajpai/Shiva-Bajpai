@@ -37,12 +37,12 @@ A Full-Stack Dev & UI/UX Designer!
 ## 👨🏻‍💻 I'm currently Building ::
 
 <strong> My Full-Stack Projects 👇🏻</strong>
-- Notion +
+- Notion + 
 - Spotify + 
 - Canva +
 
 <strong> My SaaS Projects 👇🏻</strong>
-- Next-Level 
+- Next-Level <a href="https://in.linkedin.com/company/nextlevelwithsb"> LinkedIn Page</a> 
 - JustUI
 - SBditor
 
