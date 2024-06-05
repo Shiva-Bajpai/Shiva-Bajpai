@@ -61,5 +61,5 @@ A very passionate,self taught web designer. With My conquered power of imaginati
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AyushAwasthi2384&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=AyushAwasthi2384&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAwasthi2384&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Bajpai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
