@@ -3,14 +3,13 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="HTTP://know-shiva.netlify.com" target="_blank" rel="noreferrer">Shiva</a> 👋
+Hi there, I'm <a href="https://its-sb.netlify.app" target="_blank" rel="noreferrer">Shiva</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Developer & UI/UX Designer!
+I'm a Full-Stack Web Developer 💻, Ethical Hacker 👩‍💻, and Graphics Designer (UI/UX) 🎨!
 </h2> 
-A passionate, self taught dev. With My conquered power of imagination, I imagine and then execute the websites like never seen before. <br> Also a Backend developer with robust problem solving skills and proven experience in creating and design the best that has ever made out there.I love the entire process of developing creative websites. <br>
-I love sharing good stuff on <a href="https://www.linkedin.com/in/shiva-bajpai-sb06/"  target="_blank"LinkedIn> & <a href="https://www.x.com/in/SB__Codes/" target="_blank" X> to help the community Learning how people hide things and where people are likely to look.
+A very passionate,self taught web designer. With My conquered power of imagination, I imagine and then execute the websites like never seen before. Also a Backend developer with robust problem solving skills and proven experience in creating and design the best that has ever made out there.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
