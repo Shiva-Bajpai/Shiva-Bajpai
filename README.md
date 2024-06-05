@@ -18,10 +18,9 @@ A Full-Stack Dev & UI/UX Designer!
 
 
 ### 🤝 Connect with me ::
-![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 <a href="https://www.linkedin.com/in/shiva-bajpai-sb06/" target="_blank"><img align="left"  src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Shiva Bajpai | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/_shiva__bajpai_/" target="_blank"><img align="left" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="Shiva Bajpai | Instagram" width="21px"/></a>
-<a href="https://twitter.com/ShivaBajpai06" target="_blank"><img align="left" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Shiva Bajpai | Twitter" width="21px"/></a>
+<a href="https://twitter.com/ShivaBajpai06" target="_blank"><img align="left" src="https://www.google.com/search?client=tablet-android-samsung-nf-rev1&sca_esv=3afdcc1e5739e061&sxsrf=ADLYWIJxUQZ6BQCGRdFUIgqtusyWKN8Gyg:1717603461924&q=X+logo+4k&uds=ADvngMiLMd7EL5NNlQKogBNiCnwmESXwE5wk7AMnl2Fn7MktIadBsugfH_9yqb8hnQ3gyb1xrVhTKu6W6b6LQqMgTYxxq95d8PZxTm76rzMkwms_KYvQw8bnRTp1j7TNTvx4N7PMre_wfZYtwfte83rVqY3L75Y-MbhJYOIzceuSi6USGJyTA03t1Iz-_luLjm-hHycLA-xowCkHIfx5VLyVC9OQKyueZvMW8ExiWw2f0rEmGUyqfxqHoDHDbzuhCK5oRKOzHSpmTizHVlQb_9WRvqr0I-TdKxVZtZoKcDhbgQFrBUVIYrn99EHolfSyVUM9TiNrzgN7&udm=2&prmd=ivsnmbtz&sa=X&ved=2ahUKEwis3tnB68SGAxVLxTgGHbvCArsQtKgLegQIGRAB&biw=1138&bih=712&dpr=2.25#vhid=ihSILFjnZSo-9M&vssid=mosaic" alt="Shiva Bajpai | Twitter" width="21px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
