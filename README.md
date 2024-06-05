@@ -58,3 +58,8 @@ A very passionate,self taught web designer. With My conquered power of imaginati
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=AyushAwasthi2384&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyushAwasthi2384&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAwasthi2384&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
