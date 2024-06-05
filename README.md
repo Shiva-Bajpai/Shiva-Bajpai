@@ -11,7 +11,7 @@ A Full-Stack Dev & UI/UX Designer!
 </h2> 
 
 ### 👨🏻‍💻 Who I Am ? 
-- As I am a CS student 👨🏻‍💻 I like to make cool website using different Tech Stack like <b> GSAP, Three.js, Animation libraries </b> etc. 
+- As I am a CS'27 student 👨🏻‍💻 I like to make cool website using different Tech Stack like <b> GSAP, Three.js, Animation libraries </b> etc. 
 - With My conquered power of imagination, I imagine and then execute the websites like never seen before. 
 - I'm also a Backend developer with robust problem solving skills and proven experience in creating and designing the best that has ever made out there. 
 - I love 💖 sharing my experiences & knowledge to the help the community by posting valuble content on my <b> LinkedIn</b> & <b> X (Twitter) </b>related to Tech, Personal Development, Business, AI/ML & Opportunities for devs like Internships, Contests and many more.
