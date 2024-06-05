@@ -42,7 +42,7 @@ A Full-Stack Dev & UI/UX Designer!
 - Canva +
 
 <strong> My SaaS Projects 👇🏻</strong>
-- Next-Level <a href="https://in.linkedin.com/company/nextlevelwithsb"> LinkedIn Page</a> 
+- <a href="https://in.linkedin.com/company/nextlevelwithsb"> Next-Level</a> 
 - JustUI
 - SBditor
 
