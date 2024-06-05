@@ -3,15 +3,24 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://its-sb.netlify.app" target="_blank" rel="noreferrer">Shiva</a> 👋
+Hii👋 Devs, I'm <a href="https://its-sb.netlify.app" target="_blank" rel="noreferrer">Shiva</a> 
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Ethical Hacker 👩‍💻, and Graphics Designer (UI/UX) 🎨!
+A Full-Stack Dev & UI/UX Designer!
 </h2> 
-A very passionate,self taught web designer. With My conquered power of imagination, I imagine and then execute the websites like never seen before. Also a Backend developer with robust problem solving skills and proven experience in creating and design the best that has ever made out there.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
+### 👨🏻‍💻 Who I Am ? 
+As I am a CS student I like to make cool website using different Tech Stack like GSAP, Three.js, animation libraries etc. 
+<br> 
+With My conquered power of imagination, I imagine and then execute the websites like never seen before. 
+<br> 
+Also a Backend developer with robust problem solving skills and proven experience in creating and designing the best that has ever made out there. 
+<br>
+I love sharing my experiences & knowledge to the help the community by posting valuble content on my <b> LinkedIn</b> & <b> X (Twitter) </b>related to Tech, Personal Development, Business, AI/ML & Opportunities for devs like Internships, Contests and many more.
+
+
+### 🤝 Connect with me ::
 
 <a href="https://www.linkedin.com/in/shiva-bajpai-sb06/" target="_blank"><img align="left"  src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Shiva Bajpai | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/_shiva__bajpai_/" target="_blank"><img align="left" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="Shiva Bajpai | Instagram" width="21px"/></a>
@@ -19,21 +28,30 @@ A very passionate,self taught web designer. With My conquered power of imaginati
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- ✨️ I'm always open to answer all your Queries. 
 
-## 🔭 I'm currently working on
+### 📒 I'm currently Learning ::
 
-- Android Dev.
-- Web Dev Projects.
-- Learning Artificial Intelligence & Machine Learning With NLP.
-- UE 5
+- App Development [Flutter]
+- Artificial Intelligence [Genrative AI]
+- Machine Learning [Deep Learning & NLP]
+- Data Structures & Algorithms [DSA]
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently Building ::
 
-- Kotlin
-- Gradle
-- DSA (C++)
-- postgresql
+<strong> My Full-Stack Projects </strong>
+- Notion +
+- Spotify + 
+- Canva +
 
+<strong> My SaaS Projects </strong>
+- Next-Level 
+- JustUI
+- SBditor
+
+### 👥 Communities I am Part of ::
+- CNCF || OxML, University of Oxford 🎓|| HPAIR, Harvard University 🎓 || GSSoC || SWoC || E-Cell IIT Bombay <br>
+- Coding Ninjas || Internshala || Xartup || 
 
 ## 💼 Technical Skills
 
