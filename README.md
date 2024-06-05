@@ -43,7 +43,7 @@ A Full-Stack Dev & UI/UX Designer!
 
 <strong> My SaaS Projects 👇🏻</strong>
 - <a href="https://in.linkedin.com/company/nextlevelwithsb"> Next-Level</a> 
-- JustUI
+- <a href="https://www.linkedin.com/company/just-ui"> JustUI </a>
 - SBditor
 
 ### 👥 Communities I am Part of ::
