@@ -59,6 +59,3 @@ A very passionate,self taught web designer. With My conquered power of imaginati
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-# GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Bajpai&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
