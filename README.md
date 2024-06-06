@@ -58,7 +58,7 @@ A Full-Stack Dev & UI/UX Designer!
 
 ### 💼 Technical Skills 👇🏻
 
-<strong> Frontend Development :: </strong>
+<strong> Frontend Development :: </strong> <br>
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
