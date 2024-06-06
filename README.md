@@ -46,8 +46,8 @@ A Full-Stack Dev & UI/UX Designer!
 - Canva +
 
 <strong> My SaaS Projects 👇🏻</strong>
-- <a href="https://in.linkedin.com/company/nextlevelwithsb"> Next-Level</a> 
-- <a href="https://www.linkedin.com/company/just-ui"> JustUI </a>
+- Next-Level
+- JustUI
 - SBditor
 
 ### 👥 Communities I am Part of ::
@@ -69,7 +69,6 @@ A Full-Stack Dev & UI/UX Designer!
 </br>
 
 <strong> Backend & Database :: </strong> <br> 
-
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=000000)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&color=092E20)
@@ -100,7 +99,6 @@ A Full-Stack Dev & UI/UX Designer!
 
 
 <strong> Tools :: </strong> <br>
-
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&color=181717)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
