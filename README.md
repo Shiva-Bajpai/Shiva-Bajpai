@@ -80,7 +80,7 @@ A Full-Stack Dev & UI/UX Designer!
 <strong> Android Development </strong> <br>
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=java&color=007396)
 ![](https://img.shields.io/badge/Code-Android_Studio-informational?style=flat&logo=android-studio&color=3DDC84)
 ![](https://img.shields.io/badge/Code-Gradle-informational?style=flat&logo=gradle&color=02303A)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
