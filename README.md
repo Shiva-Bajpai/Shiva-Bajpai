@@ -51,6 +51,16 @@ A Full-Stack Dev & UI/UX Designer!
 - Coding Ninjas || Internshala || Xartup || Under 25 Universe ||
 - <b> Check Out My LinkedIn to Know More ✨️ </b>
 
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
+[![X](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/yourusername)
+[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat&logo=Behance&logoColor=white&link=https://www.behance.net/yourusername)](https://www.behance.net/yourusername)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white&link=https://hashnode.com/@yourusername)](https://hashnode.com/@yourusername)
+[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+
+
 
 ## 💼 Technical Skills 👇🏻
 
