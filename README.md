@@ -18,9 +18,14 @@ A Full-Stack Dev & UI/UX Designer!
 
 
 ### 🤝 Connect with me ::
-<a href="https://www.linkedin.com/in/shiva-bajpai-sb06/" target="_blank"><img align="left"  src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Shiva Bajpai | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/_shiva__bajpai_/" target="_blank"><img align="left" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="Shiva Bajpai | Instagram" width="21px"/></a>
-<a href="https://www.x.com/SB__Codes/" target="_blank"><img align="left" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Shiva Bajpai | x" width="21px"/></a>
+
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/shiva-bajpai-sb06/)
+[![X](https://img.icons8.com/fluent/48/000000/twitter.png)](https://x.com/sb__codes)
+[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://instagram.com/shiva.codes)
+[![Behance](https://img.icons8.com/fluent/48/000000/behance.png)](https://www.behance.net/shivabajpai)
+[![Hashnode](https://img.icons8.com/fluent/48/000000/hashnode.png)](https://hashnode.com/@ShivaBajpai)
+[![Mail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:Shivabajpai2006@gmail.com)
+
 
 </br>
 
@@ -50,16 +55,6 @@ A Full-Stack Dev & UI/UX Designer!
 - CNCF || OxML, University of Oxford 🎓|| HPAIR, Harvard University 🎓 || GSSoC || SWoC || JGEC || E-Cell IIT Bombay 
 - Coding Ninjas || Internshala || Xartup || Under 25 Universe ||
 - <b> Check Out My LinkedIn to Know More ✨️ </b>
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![X](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/yourusername)
-[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat&logo=Behance&logoColor=white&link=https://www.behance.net/yourusername)](https://www.behance.net/yourusername)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white&link=https://hashnode.com/@yourusername)](https://hashnode.com/@yourusername)
-[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
-
 
 
 ## 💼 Technical Skills 👇🏻
