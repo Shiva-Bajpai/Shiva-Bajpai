@@ -63,9 +63,10 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
+![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&logo=tailwind-css&color=38B2AC)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&color=563D7C)
+
 </br>
 <strong> Backend Development :: </strong>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
