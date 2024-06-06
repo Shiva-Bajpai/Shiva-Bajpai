@@ -66,9 +66,9 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
 ![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&logo=tailwind-css&color=38B2AC)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&color=563D7C)
-
 </br>
-<strong> Backend & Database :: </strong> <br>
+
+<strong> Backend & Database :: </strong> <br> 
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=000000)
@@ -79,7 +79,8 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57)
 
-<strong> Tools </strong>
+<strong> Tools </strong> <br>
+
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&color=181717)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
