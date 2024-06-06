@@ -55,6 +55,7 @@ A Full-Stack Dev & UI/UX Designer!
 ### 💼 Technical Skills 👇🏻
 
 <strong> Frontend Development :: </strong> <br>
+
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -65,6 +66,7 @@ A Full-Stack Dev & UI/UX Designer!
 </br>
 
 <strong> Backend & Database :: </strong> <br> 
+
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=000000)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&color=092E20)
@@ -76,6 +78,7 @@ A Full-Stack Dev & UI/UX Designer!
 <br>
 
 <strong> Android Development </strong> <br>
+
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
 ![](https://img.shields.io/badge/Code-Android_Studio-informational?style=flat&logo=android-studio&color=3DDC84)
@@ -84,6 +87,7 @@ A Full-Stack Dev & UI/UX Designer!
 <br>
 
 <strong> Additional Skills :: </strong> <br>
+
 ![](https://img.shields.io/badge/Skills-UI/UX-informational?style=flat&logo=figma&color=F24E1E)
 ![](https://img.shields.io/badge/Skills-Graphics_Designing-informational?style=flat&logo=adobe-photoshop&color=31A8FF)
 ![](https://img.shields.io/badge/Skills-Web_3.0-informational?style=flat&logo=web3.js&color=F16822)
@@ -95,6 +99,7 @@ A Full-Stack Dev & UI/UX Designer!
 
 
 <strong> Tools :: </strong> <br>
+
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&color=181717)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
