@@ -18,16 +18,12 @@ A Full-Stack Dev & UI/UX Designer!
 
 
 ### 🤝 Connect with me ::
-
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/shiva-bajpai-sb06/)
 [![X](https://img.icons8.com/fluent/48/000000/twitter.png)](https://x.com/sb__codes)
 [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://instagram.com/shiva.codes)
 [![Behance](https://img.icons8.com/fluent/48/000000/behance.png)](https://www.behance.net/shivabajpai)
 [![Mail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:Shivabajpai2006@gmail.com)
-
-
 </br>
-
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 - ✨️ I'm always open to answer all your Queries. 
 
