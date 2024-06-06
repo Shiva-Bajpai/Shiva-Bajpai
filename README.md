@@ -23,7 +23,7 @@ A Full-Stack Dev & UI/UX Designer!
 [![X](https://img.icons8.com/fluent/48/000000/twitter.png)](https://x.com/sb__codes)
 [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://instagram.com/shiva.codes)
 [![Behance](https://img.icons8.com/fluent/48/000000/behance.png)](https://www.behance.net/shivabajpai)
-[![Hashnode](https://img.icons8.com/fluent/48/000000/hashnode.png)](https://hashnode.com/@ShivaBajpai)
+[![Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png)](https://hashnode.com/@yourusername)
 [![Mail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:Shivabajpai2006@gmail.com)
 
 
