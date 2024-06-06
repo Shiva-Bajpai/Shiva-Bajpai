@@ -68,12 +68,7 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&color=563D7C)
 
 </br>
-<strong> Backend Development :: </strong>
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-</br>
+<strong> Backend Development :: </strong> <br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
