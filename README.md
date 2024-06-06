@@ -68,12 +68,27 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&color=563D7C)
 
 </br>
-<strong> Backend Development :: </strong> <br>
+<strong> Backend & Database :: </strong> <br>
 
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=000000)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&color=092E20)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&color=000000)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57)
+
+<strong> Tools </strong>
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&color=181717)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&color=4285F4)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&color=0078D4)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 
