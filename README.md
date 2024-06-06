@@ -80,7 +80,7 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57)
 <br>
 
-<strong> Android Development </strong>
+<strong> Android Development </strong> <br>
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
 ![](https://img.shields.io/badge/Code-Android_Studio-informational?style=flat&logo=android-studio&color=3DDC84)
@@ -88,7 +88,7 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
 <br>
 
-<strong> Additional Skills :: </strong> 
+<strong> Additional Skills :: </strong> <br>
 ![](https://img.shields.io/badge/Skills-UI/UX-informational?style=flat&logo=figma&color=F24E1E)
 ![](https://img.shields.io/badge/Skills-Graphics_Designing-informational?style=flat&logo=adobe-photoshop&color=31A8FF)
 ![](https://img.shields.io/badge/Skills-Web_3.0-informational?style=flat&logo=web3.js&color=F16822)
