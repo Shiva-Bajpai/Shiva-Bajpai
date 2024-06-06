@@ -78,8 +78,28 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57)
+<br>
 
-<strong> Tools </strong> <br>
+<strong> Android Development </strong>
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
+![](https://img.shields.io/badge/Code-Android_Studio-informational?style=flat&logo=android-studio&color=3DDC84)
+![](https://img.shields.io/badge/Code-Gradle-informational?style=flat&logo=gradle&color=02303A)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
+<br>
+
+<strong> Additional Skills :: </strong> 
+![](https://img.shields.io/badge/Skills-UI/UX-informational?style=flat&logo=figma&color=F24E1E)
+![](https://img.shields.io/badge/Skills-Graphics_Designing-informational?style=flat&logo=adobe-photoshop&color=31A8FF)
+![](https://img.shields.io/badge/Skills-Web_3.0-informational?style=flat&logo=web3.js&color=F16822)
+![](https://img.shields.io/badge/Skills-Cyber_Security-informational?style=flat&logo=security&color=5E5E5E)
+![](https://img.shields.io/badge/Skills-Research-informational?style=flat&logo=read-the-docs&color=4285F4)
+![](https://img.shields.io/badge/Skills-Artificial_Intelligence-informational?style=flat&logo=artificial-intelligence&color=4285F4)
+![](https://img.shields.io/badge/Skills-Machine_Learning-informational?style=flat&logo=tensorflow&color=FF6F00)
+![](https://img.shields.io/badge/Skills-NLP-informational?style=flat&logo=nlp&color=4A90E2)
+
+
+<strong> Tools :: </strong> <br>
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&color=181717)
