@@ -38,7 +38,7 @@ A Full-Stack Dev & UI/UX Designer!
 - Machine Learning [Deep Learning & NLP]
 - Data Structures & Algorithms [DSA]
 
-## 👨🏻‍💻 I'm currently Building ::
+### 👨🏻‍💻 I'm currently Building ::
 
 <strong> My Full-Stack Projects 👇🏻</strong>
 - Notion + 
