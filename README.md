@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hii👋 Devs, I'm <a href="https://its-sb.netlify.app" target="_blank" rel="noreferrer">Shiva</a> 
+Hii👋 Devs, I'm <a href="https://Bit.ly/Know-Shiva" target="_blank" rel="noreferrer">Shiva</a> 
 </h3>
 
 <h2 align="center">
