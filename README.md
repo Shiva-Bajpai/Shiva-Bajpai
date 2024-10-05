@@ -89,7 +89,7 @@ A Full-Stack Dev & UI/UX Designer!
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 
-![Profile views](https://komarev.com/ghpvc/?Shiva-Bajpai=shiva-bajpai&label=Profile+views+starting+from+500)
+
 
 
 
