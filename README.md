@@ -51,7 +51,7 @@ A Full-Stack Dev & UI/UX Designer!
 - Coding Ninjas || Internshala || Xartup || Under 25 Universe ||
 - <b> Check Out My LinkedIn to Know More ✨️ </b>
 
-
+[![](https://visitcount.itsvg.in/api?id=Shiva-Bajpai&icon=0&color=13)](https://visitcount.itsvg.in)
 ### 💼 Technical Skills 👇🏻
 
 <strong> Frontend Development :: </strong> <br>
