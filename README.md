@@ -47,8 +47,9 @@ A Full-Stack Dev & UI/UX Designer!
 - Elysium Designs (A Design & Dev Agency) 
 
 ### 👥 Communities I am Part of ::
-- CNCF || OxML, University of Oxford 🎓|| HPAIR, Harvard University 🎓 || GSSoC || SWoC || JGEC || E-Cell IIT Bombay 
-- Coding Ninjas || Internshala || Xartup || Under 25 Universe ||
+- CNCF || OxML, University of Oxford 🎓|| HPAIR, Harvard University 🎓 || GSSoC ||
+- SWoC || JGEC || E-Cell IIT Bombay || Coding Ninjas || Internshala || Xartup ||
+- Under 25 Universe || Fiver 
 - <b> Check Out My LinkedIn to Know More ✨️ </b>
 
 ### 💼 Technical Skills 👇🏻
